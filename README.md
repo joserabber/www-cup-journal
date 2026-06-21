@@ -1,2 +1,14 @@
 # www-cup-journal
-HTML page archive and documentation
+
+仓库页面索引说明
+
+发布程序会将生成后的页面写入本仓库，形成可追踪的文件记录。
+
+## 目录内容
+
+- 页面文件：发布后的 HTML
+- 说明文件：README.md
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
